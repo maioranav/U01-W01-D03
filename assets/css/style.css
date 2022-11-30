@@ -46,6 +46,14 @@ figure img {
   border-radius: 2%;
   box-shadow: 3px 3px 10px;
 }
+figure video {
+  border-radius: 2%;
+  width: 100%;
+  box-shadow: 3px 3px 10px;
+}
+video[poster] {
+  object-fit: cover;
+}
 figcaption {
   color: lightgray;
   font-size: 0.8em;
