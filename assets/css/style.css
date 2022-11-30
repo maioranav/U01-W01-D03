@@ -37,6 +37,12 @@ footer {
   flex-direction: column;
   width: 50%;
 }
+@media screen and (max-width: 900px) {
+  article,
+  footer {
+    width: 90%;
+  }
+}
 p {
   font-size: 0.8em;
 }
