@@ -96,9 +96,7 @@ h4 {
 h5 {
   font-size: 1.2em;
 }
-ul {
-  padding: 1em 2em;
-}
+ul,
 ol {
   padding: 1em 2em;
 }
